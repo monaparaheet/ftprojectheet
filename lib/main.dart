@@ -147,7 +147,7 @@ class _GroceryScreenState extends State<GroceryScreen> {
 
                           
                           Expanded(
-                            flex: 2,
+                            flex: 3,
                             child: Text(
                               item.title,
                               maxLines: 2,
